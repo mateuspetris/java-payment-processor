@@ -1,4 +1,4 @@
-# 🐮 Moo Pay
+#  Moo Pay
 
 > Sistema simples de processamento de transações financeiras desenvolvido para praticar conceitos de Programação Orientada a Objetos em Java.
 
